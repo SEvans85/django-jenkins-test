@@ -1,5 +1,4 @@
-  GNU nano 6.2                                                         docker-compose.yaml                                                                  version: '3.8'
-
+ 
 services:
   web:
     build:
